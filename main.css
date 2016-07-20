@@ -1,0 +1,42 @@
+    body {
+    	margin: 0px;
+    	padding: 0px;
+    }
+
+#c1{
+  background-color:#ee3e64;}
+
+#c2 {
+  background-color: #008080; }
+
+
+#c3 {
+  background-color:#b7d84b;}
+
+#c4 {
+  background-color:#EA990A;}
+
+.cuadro{ position: absolute;
+    height: 200px;
+    width: 200px;
+    right: 0px;
+    top:0px;}
+
+
+.cuadro2{ position: absolute;
+    height: 200px;
+    width: 200px;
+left: 0px;
+top:0px;}
+
+.cuadro3{ position: absolute;
+    height: 200px;
+    width: 200px;
+    right: 0px;
+    bottom: 0px;}
+
+.cuadro4{ position: absolute;
+    height: 200px;
+    width: 200px;
+    left: 0px;
+    bottom:0px;}
